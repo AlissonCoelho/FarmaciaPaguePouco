@@ -1,0 +1,6 @@
+Codigo: CL0004|Nome: Alair|Logradouro: Rua Xingu|Número: 35|Cidade: Contagem|Bairro: Riacho|Estado: Minas Gerais|Telefone: (31) 25656-330
+Codigo: CL0006|Nome: Ivalda|Logradouro: Avanida amazonas|Número: 799|Cidade: Beo Horizonte|Bairro: Gameleira|Estado: Minas Gerais|Telefone: (31) 98574-6525
+Codigo: CL0007|Nome: Loildo|Logradouro: Rua HHH|Número: 56|Cidade: Crucilandi|Bairro: Bela Viata|Estado: Minas Gerais|Telefone: (31) 98455-4454
+Codigo: CL0008|Nome: Vicete|Logradouro: Rua Tocantin|Número: 789|Cidade: Belo Horizonte|Bairro: Cabral|Estado: Minas Gerais|Telefone: (31) 97456-2223
+Codigo: CL0010|Nome: Pedro|Logradouro: Rua Paraopeba|Numero: 321|Cidade: Betim|Bairro: Central|Estado: Minas Gerais|Telefone: (31) 98765-5654
+Codigo: CL0011|Nome: Joaquim|Logradouro: Rua Aparopeba|Numero: 560|Cidade: Contagem|Bairro: Riacho|Estado: Minas Gerais|Telefone: (31) 98656-5655

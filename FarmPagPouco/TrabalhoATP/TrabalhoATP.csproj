@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{219BF110-6ECB-4016-9036-DDDAEA25D18E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TrabalhoATP</RootNamespace>
+    <AssemblyName>TrabalhoATP</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Clientes.cs" />
+    <Compile Include="Classes\Convenios.cs" />
+    <Compile Include="Classes\Funcionarios.cs" />
+    <Compile Include="Classes\Geral.cs" />
+    <Compile Include="Classes\Produtos.cs" />
+    <Compile Include="Classes\Vendas.cs" />
+    <Compile Include="Controles\Clientes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Convenios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\Convenios.Designer.cs">
+      <DependentUpon>Convenios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Funcionarios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\Funcionarios.Designer.cs">
+      <DependentUpon>Funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Produtos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\Produtos.Designer.cs">
+      <DependentUpon>Produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Vendas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\Vendas.Designer.cs">
+      <DependentUpon>Vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AddClient.Designer.cs">
+      <DependentUpon>AddClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AddConvenios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AddConvenios.Designer.cs">
+      <DependentUpon>AddConvenios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AddFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AddFunc.Designer.cs">
+      <DependentUpon>AddFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AddProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AddProdutos.Designer.cs">
+      <DependentUpon>AddProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\AddVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\AddVendas.Designer.cs">
+      <DependentUpon>AddVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EditClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EditClientes.Designer.cs">
+      <DependentUpon>EditClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EditConvenios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EditConvenios.Designer.cs">
+      <DependentUpon>EditConvenios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EditFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EditFunc.Designer.cs">
+      <DependentUpon>EditFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EditProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EditProdutos.Designer.cs">
+      <DependentUpon>EditProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EditVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EditVendas.Designer.cs">
+      <DependentUpon>EditVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controles\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\Convenios.resx">
+      <DependentUpon>Convenios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\Funcionarios.resx">
+      <DependentUpon>Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\Produtos.resx">
+      <DependentUpon>Produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\Vendas.resx">
+      <DependentUpon>Vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AddClient.resx">
+      <DependentUpon>AddClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AddConvenios.resx">
+      <DependentUpon>AddConvenios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AddFunc.resx">
+      <DependentUpon>AddFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AddProdutos.resx">
+      <DependentUpon>AddProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\AddVendas.resx">
+      <DependentUpon>AddVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\EditClientes.resx">
+      <DependentUpon>EditClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\EditConvenios.resx">
+      <DependentUpon>EditConvenios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\EditFunc.resx">
+      <DependentUpon>EditFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\EditProdutos.resx">
+      <DependentUpon>EditProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\EditVendas.resx">
+      <DependentUpon>EditVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\TrabalhoATP.Classes.Clientes.datasource" />
+    <None Include="Properties\DataSources\TrabalhoATP.Classes.Convenios.datasource" />
+    <None Include="Properties\DataSources\TrabalhoATP.Classes.Funcionarios.datasource" />
+    <None Include="Properties\DataSources\TrabalhoATP.Classes.Produtos.datasource" />
+    <None Include="Properties\DataSources\TrabalhoATP.Classes.Vendas.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pag_Pouco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SI_icone.png" />
+    <None Include="Resources\filter_delete.png" />
+    <None Include="Resources\filter_add.png" />
+    <None Include="Resources\IconePagePouco.jpg" />
+    <Content Include="Resources\PUC.jpg" />
+    <None Include="Resources\searchClean.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

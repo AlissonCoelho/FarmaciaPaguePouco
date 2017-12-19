@@ -1,0 +1,173 @@
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.CoreCompileInputs.cache
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.CoreCompileInputs.cache
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+E:\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+E:\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+E:\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.CoreCompileInputs.cache
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+E:\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+F:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+G:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+E:\SISTEMAS\LATP\Trabalho\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.CoreCompileInputs.cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\_OLD\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\bin\Debug\TrabalhoATP.exe.config
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\bin\Debug\TrabalhoATP.exe
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\bin\Debug\TrabalhoATP.pdb
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.csprojResolveAssemblyReference.cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Clientes.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Funcionarios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddClient.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.formAddFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.principal.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.Properties.Resources.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.GenerateResource.Cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.csproj.CoreCompileInputs.cache
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.exe
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco07112017\TrabalhoATP\obj\Debug\TrabalhoATP.pdb
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Convenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Produtos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Controles.Vendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddConvenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddProdutos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.AddVendas.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditClientes.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditConvenios.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditFunc.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditProdutos.resources
+E:\Dados\SISTEMAS PUC\Laboratorio\Trabalho ATP Farmacia\FarmPagPouco\TrabalhoATP\obj\Debug\TrabalhoATP.Formularios.EditVendas.resources

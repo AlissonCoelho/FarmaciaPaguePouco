@@ -1,0 +1,4 @@
+Codigo: VD0008|produto: Dipirona|quantidade: 2|valorTotal: R$:19,98|codigoCliente: Ivalda|codigoFuncionario: Alexandre|convenios: Unimed|valorFinal: R$:14,98|dataVenda: 07/11/2017
+Codigo: VD0009|produto: Escova de Dente Oral B|quantidade: 2|valorTotal: R$:24|codigoCliente: Alair|codigoFuncionario: Monica|convenios: Batata|valorFinal: R$:20,4|dataVenda: 07/11/2017
+Codigo: VD0010|produto: Desodorante Axe|quantidade: 2|valorTotal: R$:14|codigoCliente: Pedro|codigoFuncionario: Ricardo|convenios: Pague Pouco|valorFinal: R$:10,5|dataVenda: 07/11/2017
+Codigo: VD0011|produto: Novalgina|quantidade: 5|valorTotal: R$:75|codigoCliente: Ivalda|codigoFuncionario: Fernando|convenios: |valorFinal: R$:75|dataVenda: 07/11/2017

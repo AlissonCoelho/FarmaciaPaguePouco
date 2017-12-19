@@ -1,0 +1,5 @@
+Codigo: FC0004|Nome: Alexandre|Telefone: (31) 2545-8787|Cargo: Farmaceutico|Salario: R$ 1800,00|horarioChegar: 08:00|horarioSair: 17:00
+Codigo: FC0005|Nome: Fernando|Telefone: (31) 8644-4779|Cargo: Tecnico Enfermagem|Salario: R$ 1000,00|horarioChegar: 08:00|horarioSair: 17:00
+Codigo: FC0007|Nome: Ricardo|Telefone: (31) 9565-4654|Cargo: Vendedor Junior|Salario: R$  900,00|horarioChegar: 08:00|horarioSair: 18:00
+Codigo: FC0008|Nome: Leopoldo|Telefone: (31) 8745-6522|Cargo: Vendedor Senior|Salario: R$ 1200,00|horarioChegar: 08:00|horarioSair: 18:00
+Codigo: FC0009|Nome: Monica|Telefone: (31) 9825-4764|Cargo: Vendedor Senior|Salario: R$ 1500,00|horarioChegar: 08:00|horarioSair: 18:00

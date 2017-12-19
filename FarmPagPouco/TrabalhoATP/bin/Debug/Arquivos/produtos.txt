@@ -1,0 +1,5 @@
+Codigo: PR0003|Descricao: Dipirona|Quantidade: 600|precoCusto: R$   5,00|precoVenda: R$   9,99|tipo: Medicamentos
+Codigo: PR0004|Descricao: Desodorante Axe|Quantidade: 500|precoCusto: R$   2,00|precoVenda: R$   7,00|tipo: Perfumaria
+Codigo: PR0005|Descricao: Escova de Dente Oral B|Quantidade: 400|precoCusto: R$   6,00|precoVenda: R$  12,00|tipo: Outros
+Codigo: PR0006|Descricao: Novalgina|Quantidade: 300|precoCusto: R$   7,50|precoVenda: R$  15,00|tipo: Medicamentos
+Codigo: PR0007|Descricao: Creme dental colgate|Quantidade: 200|precoCusto: R$   6,00|precoVenda: R$  10,00|tipo: Outros

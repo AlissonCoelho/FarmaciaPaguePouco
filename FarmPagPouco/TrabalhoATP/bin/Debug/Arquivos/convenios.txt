@@ -1,0 +1,7 @@
+Codigo: CV0002|Nome: Unimed|Desconto: 25%
+Codigo: CV0004|Nome: Dornela|Desconto: 10%
+Codigo: CV0006|Nome: Araujo|Desconto: 20%
+Codigo: CV0007|Nome: Pague Pouco|Desconto: 25%
+Codigo: CV0008|Nome: Bronze|Desconto: 30%
+Codigo: CV0009|Nome: Prata|Desconto: 35%
+Codigo: CV0010|Nome: Ouro|Desconto: 40%
